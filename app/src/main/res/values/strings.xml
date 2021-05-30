@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Car Mania</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="identify_the_name_of_car_images">Identify the Name of The Car Images</string>
+    <string name="hints">Hints</string>
+    <string name="countdown">Countdown</string>
+    <string name="dog_splashing_image">dog_splashing_image</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="submit_button">Identify</string>
+    <string name="random_Car_image">Displays an image of a random car</string>
+    <string name="back_drop_car_image">Back drop image of car</string>
+    <string name="button_label_submit">Submit</string>
+    <string name="button_label_identify">Identify</string>
+    <string name="button_label_next">Next</string>
+    <string name="button_label_help">Help</string>
+    <string name="images_of_random_car">Choose The Car That Matches The Maker</string>
+    <string name="image_of_first_car_description">Image of first car</string>
+    <string name="image_of_second_car_description">Image of second car</string>
+    <string name="image_of_third_car_description">Image of third car</string>
+    <string name="guess_the_letter">Guess The Letter</string>
+
+    <string-array name="cars_array">
+        <item>BMW</item>
+        <item>Benz</item>
+        <item>Audi</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Toyota</item>
+    </string-array>
+
+</resources>

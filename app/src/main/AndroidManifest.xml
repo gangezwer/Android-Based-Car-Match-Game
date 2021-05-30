@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.car_match_game_app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CarMatchGameapp">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AdvanceLevel"
+            android:label="Advance Level"/>
+        <activity
+            android:name=".Hints"
+            android:label="Hints" />
+        <activity
+            android:name=".IdentifyTheCarImage"
+            android:label="Identify The Car Image" />
+        <activity
+            android:name=".IdentifyTheCarMake"
+            android:label="Identify The Car Make" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>
